@@ -1,0 +1,56 @@
+body {
+    margin: auto;
+}
+/* body:hover{
+    color: #f35e58;
+} */
+        nav,
+        footer,
+        nav a{
+            background-color: #f35e58;
+            color: white;
+            font-size: 18pt;
+            text-align: center;
+            padding: 10px;
+            text-decoration: none;
+        }
+
+        section {
+            font-size: 20pt;
+            padding: 10px;
+        }
+       
+
+        address {
+            font-style: normal;
+        }
+body {
+    background-color: #f5e9e1;
+}
+       
+.btn {
+  background-color: #521d63;
+  color: rgb(251, 250, 253);
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-decoration: none;
+  opacity: 0.9;
+}
+
+#btn:hover {
+color: blue;
+opacity: 2;
+
+}
+     
+#btn {
+    text-decoration: none;
+}
+
+section {
+    margin-top: auto;
+    padding: auto;
+    text-decoration: none;
+}
