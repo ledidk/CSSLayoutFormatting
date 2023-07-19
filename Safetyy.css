@@ -1,6 +1,6 @@
 
 .logo{
-    //color: #ff7200;
+    color: #ff7200;
     font-size: 35px;
     font-family: Arial;
     padding-left: 20px;
@@ -55,7 +55,7 @@ h1{
 
 body{
     height: 100vh;
-    background-color:  rgb(187, 187, 240);
+    //background-color:  rgb(187, 187, 240);
 }
 
 
